@@ -283,14 +283,14 @@ public class LogAnalyzer {
          in your data to appropriate data structures, but is included
          to help guide your work - it is an example of printing the
          data once propagated.
-       */
+       
          printOutExample(sessionsFromCustomer, viewsFromSession, buysFromSession);
-
+      */
     }
 
    /* provided as an example of a method that might traverse your
       collections of data once they are written
-      commented out as the classes do not exist yet - write them! */
+      commented out as the classes do not exist yet - write them! 
 
    private static void printOutExample(
       final Map<String, List<String>> sessionsFromCustomer,
@@ -315,7 +315,7 @@ public class LogAnalyzer {
          }
       }
    }
-
+    */
 
     //called in populateDataStructures
     private static void processFile(
