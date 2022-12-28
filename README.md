@@ -1,5 +1,5 @@
 
-A Java application that collects and analyses data from log files of an e-commerce site. 
+#A Java application that collects and analyses data from log files of an e-commerce site. 
 
 The program processes the following entries: 
   
